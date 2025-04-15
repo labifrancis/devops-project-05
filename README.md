@@ -9,4 +9,6 @@ Docker, Node.js, MongoDB, MongoExpress
 ![Running application](images/volumes.png)
 
 ### Demo
-<video src="images/demo.mp4" width="320" height="240" controls></video>
+
+![Docker volume](https://youtu.be/ndZQt_Kjm4k)
+
