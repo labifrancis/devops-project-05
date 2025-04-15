@@ -8,3 +8,6 @@ Docker, Node.js, MongoDB, MongoExpress
 ### Volumes configuration
 ![Running application](images/volumes.png)
 
+### Demo
+
+![Docker volume](images/demo.mp4)
